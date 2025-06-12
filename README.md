@@ -1,1 +1,2 @@
 # WebinarScanner
+WebinarScanner using Bootstrap
